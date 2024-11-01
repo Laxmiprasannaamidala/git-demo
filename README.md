@@ -1,3 +1,4 @@
 # git-demo
-this is my new git repositary 
+This is my new git repositary.
+<br>
 Author - Prasanna
